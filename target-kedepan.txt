@@ -3,4 +3,4 @@ Target saya kedepan :
 - Belajar Flutter
 - Memperdalami Vue dan Laravel
 - Belajar Python
-- Membaca buku lebih banyak lagi
+- Belajar Dart
