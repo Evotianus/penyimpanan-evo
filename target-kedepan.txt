@@ -2,5 +2,5 @@ Target saya kedepan :
 - Belajar Cyber Security
 - Belajar Flutter
 - Memperdalami Vue dan Laravel
-- Belajar Python
 - Membaca buku lebih banyak lagi
+- Belajar Restful API
